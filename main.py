@@ -73,6 +73,6 @@ fig5 = px.box(filtered_df, x="Sleep Disorder", y="Sleep Duration", color="Sleep 
 st.plotly_chart(fig5, use_container_width=True)
 
 st.markdown("---")
-st.markdown("👨‍💻 제작자: 예고르 | 데이터 출처: Sleep Health & Lifestyle Dataset")
+st.markdown("👨‍💻 제작자: 정 예고르/ Ten Egor | 데이터 출처: Sleep Health & Lifestyle Dataset")
 
 
